@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  *	Elgg ShortURL plugin
  *	Author : Jaffer C K | Team Webgalli
